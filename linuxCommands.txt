@@ -1,0 +1,5 @@
+mkdir -> making new directory || to making to new folder in GUI.
+ cd -> change directory || to double click in folder.
+ls -> list all the files in the directories/folder.
+ ls -a -> ls all the files including hidden files.
+git init ->
